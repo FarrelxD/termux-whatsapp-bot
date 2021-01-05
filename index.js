@@ -15,14 +15,14 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'Nama bot'; 
-const instagram = 'Instagram kamu'; 
+const BotName = 'Lmao'; 
+const instagram = '@farrel_fachrii'; 
 const aktif = 'Kapan bot aktif';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Nama kamu\n' // Nama kamu
-            + 'ORG:Nama bot;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6280000000000:+62 000-0000-0000\n' //Nomor whatsapp kamu
+            + 'FN:Farrel\n' // Nama kamu
+            + 'ORG:Lmao;\n' // Nama bot
+            + 'TEL;type=CELL;type=VOICE;waid=6282216555691:+62 822-1655-5691\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
